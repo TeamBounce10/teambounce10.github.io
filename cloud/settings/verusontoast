@@ -1059,3 +1059,4 @@ Zoot BadEffects true
 Zoot Fire true
 Zoot NoAir false
 Zoot toggle false
+chat No fall bypass doesnt exists yet nor full disabler
